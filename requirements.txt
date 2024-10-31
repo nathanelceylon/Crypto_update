@@ -1,0 +1,6 @@
+requests
+pandas
+schedule
+ta
+yfinance
+seaborn
