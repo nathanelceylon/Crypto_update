@@ -4,7 +4,7 @@ import ta
 
 # Télécharger les données pour chaque ticker
 ticker_list = ['SEI-USD', 'OP-USD','STX4847-USD', 'TRX-USD', 'DOGE-USD',
-               'TON-USD', 'WIF-USD', 'W-USD', 'BEAM28298-USD', 'LEO-USD',]
+               'TON-USD', 'WIF-USD', 'W-USD', 'BEAM28298-USD', 'LEO-USD','ENA-USD', 'RAY-USD']
 
 Dataset_hour = {}
 Dataset_hour_h = {}
